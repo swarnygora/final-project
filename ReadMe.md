@@ -1,4 +1,4 @@
-#BME 3053C Final Project: Sleep Stage Classification
+BME 3053C Final Project: Sleep Stage Classification
 
 Group 12
 
