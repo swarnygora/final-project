@@ -6,7 +6,8 @@ This project develops a neural network to classify sleep stages (Wake, N1, N2, N
 Dataset was found on Kaggle.com
 
 Step-by-step instructions
-1. Open code and import data set as a .csv file.
-2. Change parameters to fit your dataset (column names, row names, etc.). 
-3. Run code to acquire accuracy, precision, recall, and F1 score.
-4. Evaluate results.
+1. Install required libraries. (pandas, matplotlib, scikit-learn)
+2. Import your dataset.
+3. Change parameters to fit your dataset (column names, row names, etc.). 
+4. Run code to acquire accuracy, precision, recall, and F1 score.
+5. Evaluate results.
