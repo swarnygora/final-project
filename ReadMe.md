@@ -12,3 +12,7 @@ Step-by-step instructions
 3. Change parameters to fit your dataset (column names, row names, etc.). 
 4. Run code to acquire accuracy, precision, recall, and F1 score.
 5. Evaluate results.
+
+
+Youtube Link:
+https://youtu.be/moM5b8djqOo
